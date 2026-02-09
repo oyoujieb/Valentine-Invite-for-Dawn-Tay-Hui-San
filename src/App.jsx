@@ -1,6 +1,6 @@
 import { useState, useEffect, useRef, useCallback } from 'react'
 import './index.css'
-import valentineImg from './assets/valentine.jpg'
+import valentineImg from './assets/valentine_penguin.png'
 import penguinImg from './assets/penguin.jpg'
 
 function App() {
